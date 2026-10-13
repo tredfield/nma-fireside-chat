@@ -1,0 +1,18 @@
+{
+  "name": "nma-fireside-chat",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "slidev --port 3030",
+    "build": "slidev build",
+    "export": "slidev export --output exports/nma-fireside-chat.pdf"
+  },
+  "dependencies": {
+    "@slidev/cli": "53.0.0",
+    "@slidev/theme-default": "0.25.0",
+    "@fontsource/barlow-condensed": "^5.2.0",
+    "@fontsource/source-sans-3": "^5.2.0"
+  },
+  "engines": { "node": ">=22.12.0" }
+}

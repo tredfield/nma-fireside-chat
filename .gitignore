@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.slidev/
+exports/
+.DS_Store
+drive-photos/
+photo-library/
