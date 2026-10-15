@@ -69,12 +69,12 @@ photoPosition: 'center top'
   <h2>The Trans-Cascadia partnership</h2>
   <ul class="points">
     <li>NMA and Trans-Cascadia began formal talks in fall 2025, and a <strong>$140k agreement</strong> was signed in April 2026.</li>
-    <li><strong>Results:</strong> 64.31 miles of high-use trail were worked in the Cowlitz Valley and Mt. Adams Ranger Districts. The work covered drainage, tread repair, corridor clearing, logout, and erosion control, all to USFS standards.</li>
+    <li>Trail work in the Cowlitz Valley and Mt. Adams Ranger Districts covered drainage, tread repair, corridor clearing, logout, and erosion control, all to USFS standards.</li>
   </ul>
 </div>
 
 <!--
-Timing: 0:55. 2026 was a big year in the Gifford Pinchot National Forest. NMA and Trans-Cascadia began formal talks in fall 2025, and a $140k agreement was signed in April 2026. Results: 64.31 miles of high-use trail were worked in the Cowlitz Valley and Mt. Adams Ranger Districts. The work covered drainage, tread repair, corridor clearing, logout, and erosion control, all to USFS standards.
+Timing: 0:55. 2026 was a big year in the Gifford Pinchot National Forest. NMA and Trans-Cascadia began formal talks in fall 2025, and a $140k agreement was signed in April 2026. Trail work in the Cowlitz Valley and Mt. Adams Ranger Districts covered drainage, tread repair, corridor clearing, logout, and erosion control, all to USFS standards. Save the 64.31 miles for the next slide.
 
 Source: Fireside Chat Outline: NMA, section 2, Trans-Cascadia partnership. Photo: Trans-Cascadia Work Parties 2026 / IMG_6373.HEIC, cropped at the bottom to leave out standing water.
 -->
