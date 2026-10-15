@@ -42,7 +42,7 @@ mode: history
 ---
 
 <div class="content">
-  <h2>Who NMA is</h2>
+  <h2>What is the NMA?</h2>
   <ul class="points">
     <li>NMA is a volunteer, non-profit organization based in Washington State.</li>
     <li>It was formed in <strong>1937</strong> to bring Washington's motorcycle clubs together. In <strong>1973</strong>, as riding areas came under pressure, it shifted its focus to public land access rights for off-road riders.</li>
