@@ -143,3 +143,16 @@
 .nma-slide.mode-partnership .scene { height: 118%; }
 .nma-slide.mode-finale { background: var(--deep); }
 .nma-slide.mode-finale .brand-mark { width: 82px; height: 82px; }
+.nma-slide.mode-jobs { background: var(--deep); color: var(--paper); }
+.nma-slide.mode-jobs .photo-shade { background: linear-gradient(90deg, rgba(9,30,24,.92) 0%, rgba(9,30,24,.78) 55%, rgba(9,30,24,.2) 100%); }
+.nma-slide.mode-jobs .content { padding: 43px 54px; }
+.nma-slide.mode-jobs .eyebrow { color: var(--moss); }
+.nma-slide.mode-jobs h2 { margin-bottom: 20px; }
+.nma-slide.mode-jobs .hero-number { color: var(--moss); }
+.nma-slide.mode-jobs .metrics-row { border-top-color: #65786a; max-width: 640px; }
+.nma-slide.mode-jobs .brand-mark { width: 82px; height: 82px; }
+.nma-slide .crew-role { font-size: 20px; color: var(--muted); margin-bottom: 12px; }
+.nma-slide .crew-names { font: 600 28px/1.35 'Barlow Condensed', sans-serif; margin: 0; }
+.nma-slide .crew-names-cols { columns: 2; column-gap: 30px; }
+.nma-slide.mode-close .join-line a { color: var(--moss); text-decoration: none; border-bottom: 2px solid var(--moss); }
+.nma-slide.mode-partnership .crew-role { color: #d8dfcd; }

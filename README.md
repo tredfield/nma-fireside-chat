@@ -1,6 +1,6 @@
 # NMA fireside chat
 
-An 11-slide Slidev deck that carries every point of the supplied NMA outline, in its wording, with an approximately eight-minute speaking plan. Forest green, warm cream and the original NMA badge accompany photographs from the supplied trail-work collections.
+A 13-slide Slidev deck that carries every point of the supplied NMA outline, in its wording, with an approximately eight-minute speaking plan. Forest green, warm cream and the original NMA badge accompany photographs from the supplied trail-work collections.
 
 ## Run locally
 
@@ -18,8 +18,8 @@ To reinstall dependencies on another computer, use Node 22.12+ (Node 24 LTS reco
 - `slides.md`: slide text, photographs, layout options and presenter notes.
 - `styles/theme.css`: Pacific Northwest palette, typography and composition.
 - `layouts/frame.vue`: the slide canvas and unchanged NMA logo.
-- `public/photos/`: the 10 browser-ready photographs used on slides.
-- `photo-library/` (gitignored, local only): the other 72 web copies, for swapping photos. Move one into `public/photos/` to use it. Original JPEG and HEIC files remain in Downloads.
+- `public/photos/`: the 12 browser-ready photographs used on slides.
+- `photo-library/` (gitignored, local only): the other 70 web copies, for swapping photos. Move one into `public/photos/` to use it. Original JPEG and HEIC files remain in Downloads.
 - `drive-photos/` (gitignored, local only): full-size downloads from the WP #1 Orr Creek Drive folder.
 - `sources/outline.txt`: a snapshot of the supplied Google Doc.
 - `sources/photo-inventory.json`: the correspondence between original images and deck assets.

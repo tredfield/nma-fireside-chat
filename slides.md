@@ -31,7 +31,7 @@ defaults:
 </div>
 
 <!--
-Timing: 0:10. Introduce the fireside chat. Outline order: who NMA is, 2026 in Gifford Pinchot National Forest (Trans-Cascadia partnership and the hand crew), the riding side, behind the scenes, and how to get involved.
+Timing: 0:10. Introduce the fireside chat. Outline order: who NMA is, 2026 in Gifford Pinchot National Forest (Trans-Cascadia partnership and the NMA pro crew), the riding side, behind the scenes, and how to get involved.
 
 Content source for this deck: Fireside Chat Outline: NMA, https://docs.google.com/document/d/1YkZGX8tpXILwdH8dKvPwmWqpWpF9oj8f8Pe96FpLsa0/edit (read October 13, 2026).
 Photo: Sawtooth Area / Big Creek folder, IMG_20260812_061204567_HDR.jpg, supplied Google Drive photos. Logo: NMA_badge_Logo_2022_White (1).png from Downloads, unchanged.
@@ -52,7 +52,7 @@ mode: history
 </div>
 
 <!--
-Timing: 1:50. NMA is a volunteer, non-profit organization based in Washington State. It was formed in 1937 to bring Washington's motorcycle clubs together. In 1973, as riding areas came under pressure, it shifted its focus to public land access rights for off-road riders. NMA's reps lobby in Olympia and sit on land planning sessions, committees, and grant funding committees. NMA's goal is to make Washington the best place to ride, teach stewardship and etiquette, and build positive relationships with land managers and other trail users. The badge's "est. 1973" refers to the later era.
+Timing: 1:20. NMA is a volunteer, non-profit organization based in Washington State. It was formed in 1937 to bring Washington's motorcycle clubs together. In 1973, as riding areas came under pressure, it shifted its focus to public land access rights for off-road riders. NMA's reps lobby in Olympia and sit on land planning sessions, committees, and grant funding committees. NMA's goal is to make Washington the best place to ride, teach stewardship and etiquette, and build positive relationships with land managers and other trail users. The badge's "est. 1973" refers to the later era.
 
 Source: Fireside Chat Outline: NMA, section 1. Logo: original downloaded NMA badge.
 -->
@@ -104,6 +104,26 @@ Source: Fireside Chat Outline: NMA, section 2, Results and Volunteers. Photo: Tr
 -->
 
 ---
+mode: partnership
+photo: /photos/trans-cascadia/IMG_8379.webp
+photoAlt: A Trans-Cascadia van loaded with mountain bikes, parked beside dirt bikes
+photoPosition: 'center center'
+---
+
+<div class="content">
+  <p class="eyebrow">Trans-Cascadia Pro Crew</p>
+  <h2>Working through<br>the shoulder season</h2>
+  <p class="crew-role">Thank you to the Trans-Cascadia pro crew:</p>
+  <p class="crew-names crew-names-cols">Eli Selch<br>Brodie Moore<br>Andrew Ford<br>Garrett Swigart<br>Travis Adams<br>Sarah Schmidt<br>Remy Aucoin</p>
+</div>
+
+<!--
+Timing: 0:25. Thank the Trans-Cascadia pro crew who worked through the shoulder season: Eli Selch, Brodie Moore, Andrew Ford, Garrett Swigart, Travis Adams, Sarah Schmidt, and Remy Aucoin.
+
+Source: names supplied directly by the presenter on October 15, 2026, not part of the Fireside Chat Outline. Photo: Trans-Cascadia Work Parties 2026 / IMG_8379.JPEG; no people are identified.
+-->
+
+---
 mode: team
 photo: /photos/trans-cascadia/IMG_3538.webp
 photoAlt: Large work-party group gathered in front of the NMA Moto-Volunteer Trail Crew trailer
@@ -116,7 +136,7 @@ photoPosition: 'center 53%'
 </div>
 
 <!--
-Timing: 0:45. Collaboration: dirt bikers and mountain bikers worked side by side. NMA believes it is important to collaborate with and form relationships with other user groups. It makes the trails better for everyone. Let the group photo stay on screen.
+Timing: 0:40. Collaboration: dirt bikers and mountain bikers worked side by side. NMA believes it is important to collaborate with and form relationships with other user groups. It makes the trails better for everyone. Let the group photo stay on screen.
 
 Source: Fireside Chat Outline: NMA, section 2, Collaboration. Photo: Trans-Cascadia Work Parties 2026 / IMG_3538.JPG. Do not identify individuals or affiliations from appearance.
 -->
@@ -124,23 +144,23 @@ Source: Fireside Chat Outline: NMA, section 2, Collaboration. Photo: Trans-Casca
 ---
 mode: split
 photo: /photos/crew/1000005146.webp
-photoAlt: A hand crew member working on forest trail tread
+photoAlt: An NMA pro crew member working on forest trail tread
 photoPosition: 'center center'
 ---
 
 <div class="content">
-  <p class="eyebrow">GPNF · The hand crew</p>
+  <p class="eyebrow">GPNF · The NMA pro crew</p>
   <h2>Tread untouched<br>for 30 years</h2>
   <p class="crew-callout"><strong>Kris Johnson &amp; Robert Last</strong>Pro crew. Three regular volunteers helped<br>them during their work.</p>
   <ul class="points">
-    <li>The two-person hand crew restored tread that hadn't been touched in about 30 years, including drainage, switchbacks, out-slope, whoops, and roots, finished with lots of raking.</li>
+    <li>The two-person NMA pro crew restored tread that hadn't been touched in about 30 years, including drainage, switchbacks, out-slope, whoops, and roots, finished with lots of raking.</li>
     <li><strong>Completed trails:</strong> Silver Creek&nbsp;#258, Allen Mountain&nbsp;#269, Greenwood Lake&nbsp;#253, Big Creek&nbsp;#252, and Cave Creek&nbsp;#255.</li>
     <li><strong>In progress:</strong> Osbourne&nbsp;#250.</li>
   </ul>
 </div>
 
 <!--
-Timing: 1:10. Kris Johnson and Robert Last were the two-person pro hand crew, with help from other volunteers. They restored tread that hadn't been touched in about 30 years, including drainage, switchbacks, out-slope, whoops, and roots, finished with lots of raking. Completed trails: Silver Creek #258, Allen Mountain #269, Greenwood Lake #253, Big Creek #252, and Cave Creek #255. In progress: Osbourne #250. Three regular volunteers helped the pro crew during their work. Status is as of the outline; preserve its spelling of Osbourne.
+Timing: 1:10. Kris Johnson and Robert Last were the two-person NMA pro crew, with help from other volunteers. They restored tread that hadn't been touched in about 30 years, including drainage, switchbacks, out-slope, whoops, and roots, finished with lots of raking. Completed trails: Silver Creek #258, Allen Mountain #269, Greenwood Lake #253, Big Creek #252, and Cave Creek #255. In progress: Osbourne #250. Three regular volunteers helped the pro crew during their work. Status is as of the outline; preserve its spelling of Osbourne.
 
 Source: Fireside Chat Outline: NMA, section 2, the hand crew. Photo: Kris & Robert Hand Crew 2026 / 1000005146.jpeg; the person pictured is not identified.
 -->
@@ -150,7 +170,7 @@ mode: detail
 ---
 
 <div class="content">
-  <p class="eyebrow" style="margin-bottom: 10px">The hand crew</p>
+  <p class="eyebrow" style="margin-bottom: 10px">The NMA pro crew</p>
   <h2>Drainage, switchbacks, out-slope, whoops, roots</h2>
   <div class="detail-grid">
     <figure><img src="/photos/crew/1000005147.webp" alt="Forest trail tread with roots and hand tools beside it"><figcaption>Working through roots and tread</figcaption></figure>
@@ -159,9 +179,33 @@ mode: detail
 </div>
 
 <!--
-Timing: 0:20. Illustrates the hand crew's work. These are separate photographs, not a verified before-and-after pair.
+Timing: 0:20. Illustrates the NMA pro crew's work. These are separate photographs, not a verified before-and-after pair.
 
 Source: Fireside Chat Outline: NMA, section 2, the hand crew. Photos: Kris & Robert Hand Crew 2026 / 1000005147.jpeg and 1000005145.jpeg.
+-->
+
+---
+mode: jobs
+photo: /photos/sawtooth/IMG_20260724_071834643_HDR.webp
+photoAlt: A still forest lake reflecting the treeline under a clear blue sky
+photoPosition: 'center center'
+---
+
+<div class="content">
+  <p class="eyebrow">GPNF · Local jobs</p>
+  <h2>Jobs for local Packwood residents</h2>
+  <div class="hero-number">9</div>
+  <p class="number-caption">trail crew jobs held by people who live in Packwood</p>
+  <div class="metrics-row">
+    <div class="metric"><strong>2</strong><span>NMA pro crew</span></div>
+    <div class="metric"><strong>7</strong><span>Trans-Cascadia pro crew<br>through the shoulder season</span></div>
+  </div>
+</div>
+
+<!--
+Timing: 0:20. NMA's work in the Gifford Pinchot this year also created jobs for local Packwood residents: nine trail crew jobs, two on the NMA pro crew and seven on the Trans-Cascadia pro crew through the shoulder season. Emphasize that these jobs went to people who live in Packwood. Both crews were already thanked by name on their own slides. Do not add wages or season dates; none were supplied.
+
+Source: supplied directly by the presenter on October 15, 2026, not part of the Fireside Chat Outline (read October 13, 2026). All nine are Packwood residents, per the presenter. The count is the two named NMA pro crew members plus the seven named Trans-Cascadia shoulder-season crew members. Photo: Sawtooth Area / Sawtooth-#253 greenwood lake / toe head gap / IMG_20260724_071834643_HDR.jpg. The folder suggests Greenwood Lake, but the photo itself is not verified, so the slide makes no location claim.
 -->
 
 ---
@@ -204,7 +248,7 @@ mode: funding
 </div>
 
 <!--
-Timing: 1:00. Membership dues and donations support the Moto-Volunteer Trail Crew, Heavy Maintenance Crew support and administration, land use and legislative projects, and competition and poker run schedules. Grants (NOVA and RTP) reimburse expenses, so every membership and donor dollar gets "recycled" into more trail work. Do not add grant amounts or reimbursement rates.
+Timing: 0:50. Membership dues and donations support the Moto-Volunteer Trail Crew, Heavy Maintenance Crew support and administration, land use and legislative projects, and competition and poker run schedules. Grants (NOVA and RTP) reimburse expenses, so every membership and donor dollar gets "recycled" into more trail work. Do not add grant amounts or reimbursement rates.
 
 Source: Fireside Chat Outline: NMA, section 5. Logo: original downloaded NMA badge.
 -->
@@ -222,10 +266,11 @@ photoPosition: 'center center'
     <li><strong>Volunteer at a work party.</strong> No experience is needed, and you can earn a free membership and other rewards for your hard work.</li>
     <li><strong>Join as a member, donate, or sponsor.</strong></li>
   </ul>
+  <p class="join-line"><a href="https://nmaoffroad.org" target="_blank">nmaoffroad.org</a></p>
 </div>
 
 <!--
-Timing: 0:30. Volunteer at a work party: no experience is needed, and you can earn a free membership and other rewards for your hard work. Join as a member, donate, or sponsor. Then open for questions. No dates, links, or reward conditions were supplied, so do not invent them.
+Timing: 0:30. Volunteer at a work party: no experience is needed, and you can earn a free membership and other rewards for your hard work. Join as a member, donate, or sponsor. Point people to nmaoffroad.org, the Northwest Motorcycle Association website. Then open for questions. No dates or reward conditions were supplied, so do not invent them.
 
 Source: Fireside Chat Outline: NMA, section 6. Photo: Trans-Cascadia Work Parties 2026 / IMG_8383.JPEG.
 -->
