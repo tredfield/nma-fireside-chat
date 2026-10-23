@@ -34,7 +34,7 @@ defaults:
 Timing: 0:10. Introduce the fireside chat. Outline order: who NMA is, 2026 in Gifford Pinchot National Forest (Trans-Cascadia partnership and the NMA pro crew), the riding side, behind the scenes, and how to get involved.
 
 Content source for this deck: Fireside Chat Outline: NMA (read October 13, 2026).
-Photo: Sawtooth Area / Big Creek folder, IMG_20260812_061204567_HDR.jpg, supplied Google Drive photos. Logo: NMA_badge_Logo_2022_White (1).png from Downloads, unchanged.
+Photo: Sawtooth Area / Big Creek folder, IMG_20260812_061204567_HDR.jpg, supplied photo collection. Logo: NMA_badge_Logo_2022_White (1).png from Downloads, unchanged.
 -->
 
 ---
