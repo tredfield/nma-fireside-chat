@@ -42,9 +42,9 @@ npm run export
 
 ## Sources
 
-Content follows [Fireside Chat Outline: NMA](https://docs.google.com/document/d/1YkZGX8tpXILwdH8dKvPwmWqpWpF9oj8f8Pe96FpLsa0/edit), read October 13, 2026. Numerical claims and trail completion statuses reflect that outline. Each slide includes its source and photo provenance in presenter notes.
+Content follows the Fireside Chat Outline: NMA document, read October 13, 2026. Numerical claims and trail completion statuses reflect that outline. Each slide includes its source and photo provenance in presenter notes.
 
-Photos come from the three selected folders in [the supplied Google Drive collection](https://drive.google.com/drive/u/1/folders/1AeC4XyWcX185nTsX3vwNuWiF8KmLKbfK):
+Photos come from the three selected folders in the supplied photo collection:
 
 - Kris & Robert Hand Crew 2026: 7 images.
 - Sawtooth Area: 59 images, including its nested folders.
